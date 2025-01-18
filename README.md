@@ -1,4 +1,4 @@
-# React Native 가이드
+# React Native 학습 기록
 
 ## React Native 기초
 
